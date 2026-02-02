@@ -50,7 +50,7 @@ This project leverages **deep learning models** to analyze multimodal data and p
 5. Content Classification (Safe / Unsafe)  
 
 ### 📸 Architecture Diagram
-![System Architecture](Screenshot 2026-02-02 145637.png)
+![System Architecture](Screenshot2026-02-02145637.png)
 
 ---
 
